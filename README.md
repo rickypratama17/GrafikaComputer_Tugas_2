@@ -1,1 +1,1 @@
-![Alt text](Screenshot 2024-03-14 214105.png)
+![Alt text]([Screenshot 2024-03-14 214105.png](https://github.com/rickypratama17/GrafikaComputer_Tugas_2/blob/main/Screenshot%202024-03-14%20214105.png)https://github.com/rickypratama17/GrafikaComputer_Tugas_2/blob/main/Screenshot%202024-03-14%20214105.png)
